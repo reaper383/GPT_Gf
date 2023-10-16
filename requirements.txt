@@ -1,0 +1,4 @@
+git+https://github.com/steamship-core/python-client@main
+langchain==0.0.200
+scrapetube
+pytube
